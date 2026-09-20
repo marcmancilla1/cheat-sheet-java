@@ -1,4 +1,4 @@
-package StringFunctions;
+package StrinFunctions.Exercices;
 
 public class concatenarString {
   public static void concatenarString() {

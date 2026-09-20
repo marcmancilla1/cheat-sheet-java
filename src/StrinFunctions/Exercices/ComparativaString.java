@@ -1,4 +1,4 @@
-package StringFunctions;
+package StrinFunctions.Exercices;
 
 public class ComparativaString {
   public static void primeraYultimaLetra(String input) {

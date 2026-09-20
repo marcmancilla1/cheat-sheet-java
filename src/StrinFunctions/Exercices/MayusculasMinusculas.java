@@ -1,4 +1,4 @@
-package StringFunctions;
+package StrinFunctions.Exercices;
 
 public class MayusculasMinusculas {
   public static String minusculasMaiusculas(String texto) {

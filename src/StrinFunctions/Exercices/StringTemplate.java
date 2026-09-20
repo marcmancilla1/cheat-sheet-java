@@ -1,4 +1,4 @@
-package StringFunctions;
+package StrinFunctions.Exercices;
 
 import java.util.HashMap;
 import java.util.Map;
