@@ -22,6 +22,6 @@ public class CondicionalChuleta {
   if day == 1
   if day == 2
 
-  que simplemente usar keii
+  que simplemente usar keii b
    */
 }
